@@ -339,7 +339,7 @@ PrefabInstance:
     - target: {fileID: 5882027484581130497, guid: a69b3966d53945f4e920025f52246d67,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 5882027484581130497, guid: a69b3966d53945f4e920025f52246d67,
         type: 3}
@@ -487,7 +487,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   applePrefab: {fileID: 1834968154}
-  speed: 1
+  speed: 6
   leftAndRightEdge: 10
   chanceToChangeDirections: 0.002
   secondsBetweenAppleDrops: 1
